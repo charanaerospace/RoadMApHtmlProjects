@@ -4,3 +4,6 @@ https://github.com/charanaerospace/RoadMApHtmlProjects.git
 
 
 https://github.com/charanaerospace/RoadMApHtmlProjects/blob/master/readme.md
+
+
+https://roadmap.sh/projects/single-page-cv
